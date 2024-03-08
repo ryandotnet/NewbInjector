@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Injector>
+  <Process>null</Process>
+  <DLL>null</DLL>
+  <Path>null</Path>
+  <AutoInject>false</AutoInject>
+  <AutoClose>false</AutoClose>
+</Injector>
